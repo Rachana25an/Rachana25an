@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
--I am interested in web development
+•I am interested in web development💻
 
 - 📫 How to reach me **rachanar250@gmail.com**
 
